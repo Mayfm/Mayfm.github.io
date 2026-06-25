@@ -1,0 +1,83 @@
+---
+title: "Mayela Fosado Mendoza"
+image: "Mayela_Fosado_Mendoza.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "#659287")` LinkedIn'
+    url: "https://www.linkedin.com/in/mayela-fosado-mendoza/"
+  - label: '`r fontawesome::fa(name = "github", fill = "#659287")` Github'
+    url: "https://github.com/Mayfm/"
+  - label: '`r fontawesome::fa(name = "researchgate", fill = "#659287")` ResearchGate'
+    url: "https://www.researchgate.net/profile/Mayela-Fosado-Mendoza"
+  - label: '`r fontawesome::fa(name = "x-twitter", fill = "#659287")` Twitter'
+    url: "https://twitter.com/May_fm0/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "#659287")` maye.fosado@gmail.com'
+    url: "mailto:maye.fosado@gmail.com"
+ #- label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+  #  url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
+output:
+  postcards::trestles
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+
+## 🌸 Bio
+
+Hi! I’m Mayela, a microbiologist exploring bioinformatics, data science, and computational biology. I am interested in applying computational approaches to understand biological systems and analyze complex biological data.
+
+I completed my undergraduate thesis at the Instituto de Neurobiología (UNAM), where I performed a metagenomic analysis of the microbiota associated with the body wall of the terrestrial gastropod *Deroceras laeve*. Through this project, I developed experience in bioinformatics workflows, data analysis, and computational tools for biological research.
+
+I am a member of **ISCB RSG-Mexico**, where I contribute to the organization of bioinformatics courses, workshops, symposia, journal clubs, and outreach activities. 
+
+Currently, I continue expanding my skills in bioinformatics, computational biology, Python, and data science through research, training programs, and community-driven initiatives.
+
+##  Education
+
+**B.Sc. in Microbiology** | Universidad Autónoma de Querétaro (UAQ), Mexico
+
+**Undergraduate Thesis** | Instituto de Neurobiología (INB), UNAM 
+
+**Thesis title:** Análisis metagenómico de la microbiota en la pared corporal del gasterópodo *Deroceras laeve*.
+
+##  Experience
+
+**Research Intern** | Instituto de Neurobiología, UNAM
+
+Research focused on metagenomics, microbiome analysis, and bioinformatics workflows.
+
+**Council Member** | ISCB RSG-Mexico
+
+Supporting educational initiatives, workshops, symposia, and outreach activities in bioinformatics.
+
+##  Repository Contributions
+
+### Thesis Project
+
+- [Microbiota Thesis Pipeline](https://github.com/Mayfm/microbiota-thesis-pipeline)
+
+Bioinformatics workflow developed for my undergraduate thesis, including Bash preprocessing, taxonomic classification, diversity analyses, statistical analyses in R, and data visualization.
+
+### Collaborative Work
+
+- [Workshop Repository](https://github.com/ISCB-RSG-MEXICO/Workshop_Bash2025)
+
+Educational materials and exercises developed for bioinformatics training activities.
+
+##  Technical Skills
+
+- Metagenomics & microbiome analysis
+- Bioinformatics: Kraken2, phyloseq, KEGG Mapper
+- Data analysis in R
+- Python for data analysis
+- Bash
+- Git & GitHub
+
+##  Interests
+
+Bioinformatics • Computational Biology • Data Science • Metagenomics • Microbiome Research
+
+## Certificates
+
+A collection of my certificates, training activities, and participation records is available on my GitHub profile [here](https://github.com/Mayfm/Mayfm/tree/main/Certificates).
